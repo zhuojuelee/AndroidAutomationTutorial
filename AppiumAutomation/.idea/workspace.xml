@@ -21,22 +21,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="11" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="11" />
+          <entry key="JAVA" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2579" />
+          <entry key="java" value="2959" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2579" />
+          <entry key="JAVA" value="2959" />
         </counts>
       </usages-collector>
     </session>
@@ -85,11 +85,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dragAndDrop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="26" column="102" lean-forward="true" selection-start-line="26" selection-start-column="102" selection-end-line="26" selection-end-column="102" />
+            <state relative-caret-position="96">
+              <caret line="7" column="71" lean-forward="true" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dragAndDrop2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="33" column="63" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,6 +123,7 @@
         <option value="$PROJECT_DIR$/src/swipeDemo.java" />
         <option value="$PROJECT_DIR$/src/scrolling.java" />
         <option value="$PROJECT_DIR$/src/dragAndDrop.java" />
+        <option value="$PROJECT_DIR$/src/dragAndDrop2.java" />
       </list>
     </option>
   </component>
@@ -157,7 +167,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542143615528" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542145068192" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/selenium-java-3.14.0/libs" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -182,7 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.dragAndDrop">
+  <component name="RunManager" selected="Application.dragAndDrop2">
     <configuration name="dragAndDrop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dragAndDrop" />
       <module name="AppiumAutomation" />
@@ -190,8 +200,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gestures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gestures" />
+    <configuration name="dragAndDrop2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dragAndDrop2" />
       <module name="AppiumAutomation" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -229,19 +239,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.gestures" />
       <item itemvalue="Application.swipeDemo" />
       <item itemvalue="Cucumber java.All Features in: src" />
       <item itemvalue="Application.scrolling" />
       <item itemvalue="Application.dragAndDrop" />
+      <item itemvalue="Application.dragAndDrop2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.dragAndDrop2" />
         <item itemvalue="Application.dragAndDrop" />
         <item itemvalue="Application.scrolling" />
         <item itemvalue="Cucumber java.All Features in: src" />
         <item itemvalue="Application.swipeDemo" />
-        <item itemvalue="Application.gestures" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +266,7 @@
       <option name="presentableId" value="Default" />
       <updated>1542124496465</updated>
       <workItem from="1542124503814" duration="1306000" />
-      <workItem from="1542125982635" duration="10501000" />
+      <workItem from="1542125982635" duration="11596000" />
     </task>
     <servers />
   </component>
@@ -266,7 +276,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11807000" />
+    <option name="totallyTimeSpent" value="12902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1935" y="26" width="1430" height="990" extended-state="0" />
@@ -369,8 +379,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dragAndDrop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="26" column="102" lean-forward="true" selection-start-line="26" selection-start-column="102" selection-end-line="26" selection-end-column="102" />
+        <state relative-caret-position="96">
+          <caret line="7" column="71" lean-forward="true" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dragAndDrop2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="33" column="63" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
