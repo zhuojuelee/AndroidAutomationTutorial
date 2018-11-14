@@ -31,10 +31,10 @@ public class dragAndDrop2 extends base {
             1. Long press the top left dot (dot1) or any of the first 3
             2. Move the dot to hidden dot and release
          */
-        t.longPress(longPressOptions().withElement(element(dot3)).withDuration(ofSeconds(2))).perform();
+        t.longPress(longPressOptions().withElement(element(dot1)).withDuration(ofSeconds(2))).perform();
         // Now we see the hidden dot so we define the new element for it
         WebElement hiddenDot = driver.findElementById("io.appium.android.apis:id/drag_dot_hidden");
-        t.moveTo(element(hiddenDot)).release().perform();
+        t.moveTo(element(hiddenDot)).moveTo(element(dot3)).release().perform();
 
 
 
