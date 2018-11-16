@@ -18,8 +18,8 @@ public class AppBase {
         cap.setCapability(MobileCapabilityType.PLATFORM_NAME, "DEVICE_PLATFORM");
         cap.setCapability(MobileCapabilityType.DEVICE_NAME, "NAME_OF_DEVICE");
         cap.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, "00");
-        cap.setCapability(MobileCapabilityType.APP_PACKAGE, "some_ID");
-        cap.setCapability(MobileCapabilityType.APP_ACTIVITY,"Activity");
+        //cap.setCapability(MobileCapabilityType.APP_PACKAGE, "some_ID");
+        //cap.setCapability(MobileCapabilityType.APP_ACTIVITY,"Activity");
 
         AndroidDriver driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"),cap);
 
