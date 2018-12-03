@@ -18,7 +18,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/cglib-3.2.9.jar!/" />
+          <root url="jar://$MODULE_DIR$/../java-client-6.1.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -27,7 +27,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/asm-3.3.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../cglib-2.2.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -36,7 +36,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/cglib-2.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../asm-3.3.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

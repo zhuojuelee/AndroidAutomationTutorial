@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="755e56b1-a922-4afc-8130-f477aad6db18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppiumAutomation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AppiumAutomation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppiumAutomation/ApiDemos-debug.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppiumAutomation/AppBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppiumAutomation/HybridBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppiumAutomation/UiAutomatorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppiumAutomation/base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppiumAutomation/baseRealDevice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppiumAutomation/basics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppiumAutomation/dragAndDrop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppiumAutomation/dragAndDrop2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppiumAutomation/gestures.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppiumAutomation/miscelleanous.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppiumAutomation/scrolling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppiumAutomation/swipeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HybridBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UiAutomatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baseRealDevice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dragAndDrop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dragAndDrop2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gestures.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/miscelleanous.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scrolling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/swipeDemo.java" beforeDir="false" />
-    </list>
+    <list default="true" id="755e56b1-a922-4afc-8130-f477aad6db18" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -111,7 +82,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/Preferences.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
@@ -163,7 +134,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/PageObjectTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
@@ -278,12 +249,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543875545836" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/cglib-2.2.2.jar!/" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543875953855" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../asm-3.3.1.jar!/" />
     <property name="nodejs.jest.jest_package" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -388,7 +359,7 @@
       <workItem from="1542399928660" duration="4237000" />
       <workItem from="1543854279727" duration="160000" />
       <workItem from="1543854577318" duration="5157000" />
-      <workItem from="1543873962521" duration="1528000" />
+      <workItem from="1543873962521" duration="1985000" />
     </task>
     <servers />
   </component>
@@ -398,13 +369,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38849000" />
+    <option name="totallyTimeSpent" value="39306000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19798657" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19798657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -413,7 +384,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28936172" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28936172" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -576,16 +547,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PageObjectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -606,6 +567,16 @@
             <element signature="imports" expanded="true" />
             <element signature="e#374#375#0" expanded="true" />
             <element signature="e#428#429#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PageObjectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
